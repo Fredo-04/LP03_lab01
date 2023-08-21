@@ -14,7 +14,7 @@ public class Principal {
                 fl = true;
         }while(vida < 2 && !fl);
         if (fl == true)
-            System.out.println("Adivinaste!! ");
+            System.out.println("ganaste un viaje a Cancún!!... ");
         else
             System.out.println("ups, perdiste... ");
     }
